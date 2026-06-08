@@ -1,6 +1,5 @@
 <h1 align="center">Mohammed&nbsp;Mara'bi</h1>
 <p align="center"><strong>Senior Software Engineer · Full-Stack Development</strong></p>
-<p align="center">📍 Jenin, Palestine 🇵🇸</p>
 <p align="center">
   <a href="https://mohammedmarabi.github.io/">Website</a> ·
   <a href="mailto:mohammedmarabi@outlook.com">Email</a> ·
